@@ -138,9 +138,9 @@
 
 ## 🧠 Current Focus
 
-* 📌 Data Structures & Algorithms
-* 🤖 Machine Learning Basics
-* 🌐 Full Stack Development
+- 🤖 Building and improving real-world Machine Learning models  
+- 🧠 Exploring Deep Learning concepts and Neural Networks  
+- 💻 Strengthening problem-solving with Data Structures and Algorithms  
 
 ---
 
