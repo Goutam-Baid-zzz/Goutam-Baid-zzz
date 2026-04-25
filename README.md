@@ -10,11 +10,11 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech in Computer Science (CGPA: 9.4/10)
-📊 Data Science & Data Analytics Enthusiast
-🤖 Building real-world Machine Learning projects
-🧠 Exploring Deep Learning concepts and applications
-🎯 Focused on improving model accuracy and practical performance
+- 🎓 B.Tech in Computer Science (CGPA: 9.4/10)  
+- 📊 Passionate about Data Science and Analytics  
+- 🤖 Building and deploying real-world ML solutions  
+- 🧠 Exploring Deep Learning and its applications  
+- 🎯 Improving model performance and real-world usability  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0040FF&height=120&section=footer&animation=fadeIn"/>
 
