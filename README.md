@@ -75,10 +75,29 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0040FF&height=100&section=footer"/>
-</p>
+<table align="center">
+<tr>
 
+<td align="center" width="50%">
+  <a href="https://github.com/Goutam-Baid-zzz/E-Commerce-Market-Sales-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutam-Baid-zzz&repo=E-Commerce-Market-Sales-Dashboard&theme=react&hide_border=true" />
+  </a>
+  <br><br>
+  <b>📊 E-Commerce Market Sales Dashboard</b><br>
+  Power BI dashboard analyzing ₹2.17B revenue across regions, categories, and pricing strategies with interactive drilldowns and business insights.
+</td>
+
+<td align="center" width="50%">
+  <a href="https://github.com/Goutam-Baid-zzz/Complaint-Categorizer-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Goutam-Baid-zzz&repo=Complaint-Categorizer-ML&theme=react&hide_border=true" />
+  </a>
+  <br><br>
+  <b>🤖 Complaint Categorizer (ML)</b><br>
+  Machine learning model for classifying customer complaints using NLP, feature engineering, and optimized classification algorithms.
+</td>
+
+</tr>
+</table>
 
 ## 🧩 Contribution Graph
 
