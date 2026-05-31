@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech in Computer Science (CGPA: 9.4/10)  
+- 🎓 B.Tech in Computer Science (CGPA: 9.33/10)  
 - 📊 Passionate about Data Science and Analytics  
 - 🤖 Building and deploying real-world ML solutions  
 - 🧠 Exploring Deep Learning and its applications  
