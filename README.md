@@ -39,25 +39,46 @@
 
 ## 🚀 Featured Projects
 
-### 🫀 MedSegment: Healthcare Patient Segmentation
-Healthcare analytics platform using K-Means clustering to segment 100K+ diabetic patient encounters into clinically meaningful patient cohorts.
+<table>
+<tr>
+<td align="center" width="33%">
 
-🔗 https://github.com/Goutam-Baid-zzz/Diabetes-Patient-Segmentation-ML
+### 🫀 **MedSegment**
+![](https://img.shields.io/badge/-ML%20Clustering-blue?style=for-the-badge)
 
----
+*Healthcare Patient Segmentation*
 
-### 🤖 CFPB Complaint Intelligence
-NLP-powered multi-class complaint classification system using TF-IDF, spaCy, SMOTE, and Voting Ensemble Learning.
+Healthcare analytics platform using K-Means clustering to segment 100K+ diabetic patient encounters.
 
-🔗 https://github.com/Goutam-Baid-zzz/Complaint-Categorizer-ML
+[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/Goutam-Baid-zzz/Diabetes-Patient-Segmentation-ML)
 
----
+</td>
+<td align="center" width="33%">
 
-### 📊 E-Commerce Market Sales Dashboard
-Power BI dashboard analyzing ₹2.17B revenue through interactive business intelligence visualizations.
+### 🤖 **CFPB Complaint Intelligence**
+![](https://img.shields.io/badge/-NLP%20Engine-orange?style=for-the-badge)
 
-🔗 https://github.com/Goutam-Baid-zzz/E-Commerce-Market-Sales-Dashboard
+*Multi-Class Classification*
 
+NLP-powered complaint classification using TF-IDF, spaCy, SMOTE & Voting Ensemble.
+
+[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/Goutam-Baid-zzz/Complaint-Categorizer-ML)
+
+</td>
+<td align="center" width="33%">
+
+### 📊 **E-Commerce Dashboard**
+![](https://img.shields.io/badge/-Power%20BI-yellow?style=for-the-badge)
+
+*₹2.17B Revenue Analytics*
+
+Interactive BI dashboard with advanced business intelligence visualizations and insights.
+
+[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/Goutam-Baid-zzz/E-Commerce-Market-Sales-Dashboard)
+
+</td>
+</tr>
+</table>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0040FF&height=100&section=footer"/>
 
 </p>
