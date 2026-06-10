@@ -122,7 +122,7 @@ Interactive BI dashboard with advanced business intelligence visualizations and 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Reducing+Bias+%26+Controlling+Variance;Clean+Data+Reveals+Hidden+Patterns;Success+is+Built+Through+Iterations;Small+Steps+Lead+to+Higher+Accuracy;Well-Tuned+Models+Drive+Better+Decisions;Right+Features+Reveal+the+Truth;Optimize,+Learn,+and+Grow" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Reducing+Bias+%26+Controlling+Variance;Clean+Data+Reveals+Hidden+Patterns;Success+is+Built+Through+Iterations;Small+Steps+Lead+to+Higher+Accuracy;Well-Tuned+Models+Drive+Better+Decisions;Right+Features+Reveal+the+Truth;Optimize,+Learn,+and+Grow;Data+Tells+Stories+Worth+Hearing;Validation+Separates+Good+from+Great;Feature+Engineering+is+an+Art;Test+Your+Assumptions,+Trust+Your+Data;Ensemble+Methods+Beat+Single+Models;Iterate,+Measure,+Improve,+Repeat;Real+Data+is+Messier+Than+Theory;Understanding+Precedes+Prediction;Explainability+Builds+Trust;Edge+Cases+Define+Robustness;Production+Readiness+Matters;Monitor+Performance,+Not+Just+Accuracy;Cross-Validation+Builds+Confidence;Regularization+Prevents+Overfitting;Correlation+%E2%89%A0+Causation;Metrics+Don%27t+Lie,+Context+Does;Think+Before+You+Train;Normalize+Your+Data,+Clarify+Your+Mind;Bias-Variance+Trade-Off+is+Everything;From+Noise+to+Signal;Pattern+Recognition+Changes+Everything;Scale+Matters,+Precision+Matters+More" />
 </p>
 
 
